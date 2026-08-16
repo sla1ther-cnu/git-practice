@@ -2,6 +2,6 @@
 jester
 qwerty+
 
-t second
+new second
 
 bye
